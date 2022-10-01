@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(174, 223, 189);
+}
+#titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(26, 68, 26);
+}
+nav{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+a:hover{
+    background-color: rgb(179, 248, 179);      
+}
+a:link{
+    color: darkgreen;
+}
+a:visited{
+    color: darkgreen;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(11, 59, 11);
+    font-size: 25px;
+}
+p{
+    font-family: sans-serif;
+}
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(26, 68, 26);
+}
